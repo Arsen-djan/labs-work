@@ -1,0 +1,3 @@
+C:/Users/Huawei/labs-work/build/CMakeFiles/LabsWork.dir
+C:/Users/Huawei/labs-work/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Huawei/labs-work/build/CMakeFiles/ZERO_CHECK.dir

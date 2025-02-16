@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Huawei\labs-work\build\CMakeFiles\0e977f43bf70e64158807f85e4967304\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{692B2ECD-9973-3E08-A3C0-559C9D715F48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

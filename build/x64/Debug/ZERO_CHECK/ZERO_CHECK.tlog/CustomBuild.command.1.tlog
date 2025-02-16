@@ -1,0 +1,10 @@
+^C:\USERS\HUAWEI\LABS-WORK\BUILD\CMAKEFILES\0E977F43BF70E64158807F85E4967304\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/labs-work -BC:/Users/Huawei/labs-work/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Huawei/labs-work/build/LabsWork.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
